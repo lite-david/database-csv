@@ -1,6 +1,5 @@
 <?php
 
-
 function ExportExcel($table,$conn)
 {
  
@@ -52,11 +51,5 @@ else
 	echo "There is no record in your Database";
 }
  
- 
 }
-
-
-
-
-
 ?>
